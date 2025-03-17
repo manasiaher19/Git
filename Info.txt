@@ -1,3 +1,4 @@
+
 git init : Initialization
 git add . : working dir to staging dir
 git commit -m "massage" : staging to Local repo
@@ -6,3 +7,6 @@ git branch -M main : for creating a main branch
 git remote add origin https://... : connecting local with remote repo
 git push -u origin main : local to remote code push
 
+-----------------------------------------------
+
+git status : tracking changes
