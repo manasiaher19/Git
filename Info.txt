@@ -10,3 +10,4 @@ git push -u origin main : local to remote code push
 -----------------------------------------------
 
 git status : tracking changes
+git diff filename : diff between working and staging file
